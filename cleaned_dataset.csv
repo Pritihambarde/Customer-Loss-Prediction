@@ -1,0 +1,1001 @@
+Age,Gender,Tenure,MonthlyCharges,ContractType,InternetService,TotalCharges,TechSupport,Churn
+49,male,4,88.35,month-to-month,fiber optic,353.4,yes,yes
+43,male,0,36.67,month-to-month,fiber optic,0.0,yes,yes
+51,female,2,63.79,month-to-month,fiber optic,127.58,no,yes
+60,female,8,102.34,one-year,dsl,818.72,yes,yes
+42,male,32,69.01,month-to-month,none,2208.32,no,yes
+42,female,16,119.75,two-year,dsl,1916.0,yes,yes
+60,male,14,80.32,one-year,none,1124.48,no,yes
+52,female,6,58.9,one-year,none,353.4,no,yes
+40,female,53,49.81,two-year,fiber optic,2639.9300000000003,yes,no
+50,female,10,61.55,month-to-month,fiber optic,615.5,yes,yes
+40,female,1,63.53,month-to-month,fiber optic,63.53,yes,yes
+40,female,19,36.18,one-year,fiber optic,687.42,yes,no
+47,male,2,63.26,two-year,none,126.52,no,yes
+25,female,8,71.78,one-year,none,574.24,no,yes
+27,male,14,95.05,month-to-month,fiber optic,1330.7,yes,yes
+39,female,41,89.11,two-year,fiber optic,3653.51,yes,no
+34,female,13,93.79,month-to-month,none,1219.27,no,yes
+48,female,24,30.75,two-year,none,738.0,no,yes
+35,male,98,49.59,two-year,fiber optic,4859.820000000001,yes,no
+30,female,2,89.55,month-to-month,fiber optic,179.1,no,yes
+59,female,6,73.56,one-year,dsl,441.36,no,yes
+42,female,10,30.48,month-to-month,none,304.8,no,yes
+45,male,10,102.4,month-to-month,dsl,1024.0,yes,yes
+30,male,10,99.55,one-year,fiber optic,995.5,yes,yes
+39,male,47,79.36,one-year,dsl,3729.92,yes,no
+46,male,25,35.98,two-year,dsl,899.4999999999999,yes,no
+33,female,18,98.99,one-year,fiber optic,1781.82,yes,no
+48,male,7,82.53,month-to-month,none,577.71,no,yes
+38,female,34,100.38,two-year,dsl,3412.92,yes,yes
+42,male,62,97.66,two-year,fiber optic,6054.92,yes,no
+38,male,34,102.27,month-to-month,dsl,3477.18,no,yes
+63,female,0,76.62,two-year,dsl,0.0,yes,yes
+44,female,20,42.63,month-to-month,fiber optic,852.6,yes,yes
+34,female,1,90.4,two-year,fiber optic,90.4,yes,yes
+53,female,5,85.84,month-to-month,dsl,429.2000000000001,yes,yes
+32,female,1,96.8,month-to-month,fiber optic,96.8,no,yes
+47,male,18,45.29,month-to-month,dsl,815.22,yes,yes
+25,female,23,47.55,one-year,fiber optic,1093.65,yes,no
+31,female,2,110.14,month-to-month,none,220.28,no,yes
+46,female,9,97.5,month-to-month,none,877.5,no,yes
+52,male,12,111.74,one-year,fiber optic,1340.88,yes,yes
+46,female,9,98.28,two-year,fiber optic,884.52,yes,yes
+43,male,2,83.74,month-to-month,none,167.48,no,yes
+41,male,10,88.87,month-to-month,dsl,888.7,yes,yes
+30,male,27,110.02,month-to-month,none,2970.54,no,yes
+37,male,1,82.09,month-to-month,none,82.09,no,yes
+40,female,1,86.92,two-year,dsl,86.92,yes,yes
+55,female,8,44.08,two-year,dsl,352.64,no,yes
+48,female,56,72.65,one-year,none,4068.400000000001,no,yes
+27,male,22,94.48,month-to-month,fiber optic,2078.56,yes,yes
+48,male,22,54.38,one-year,dsl,1196.36,yes,no
+41,male,8,48.2,one-year,dsl,385.6,no,yes
+38,female,18,58.24,two-year,fiber optic,1048.32,yes,no
+51,male,0,51.74,one-year,fiber optic,0.0,no,yes
+55,female,20,49.34,one-year,none,986.8,no,yes
+54,female,48,68.24,one-year,none,3275.5199999999995,no,yes
+36,male,18,111.71,month-to-month,dsl,2010.78,yes,yes
+41,female,41,75.64,two-year,fiber optic,3101.24,yes,no
+48,female,25,46.91,one-year,fiber optic,1172.75,no,yes
+54,female,2,36.93,one-year,fiber optic,73.86,no,yes
+40,female,46,92.65,month-to-month,dsl,4261.900000000001,yes,yes
+43,male,1,64.45,one-year,none,64.45,no,yes
+33,male,15,103.96,one-year,none,1559.4,no,yes
+33,female,3,89.36,month-to-month,fiber optic,268.08,yes,yes
+53,female,0,101.66,month-to-month,fiber optic,0.0,yes,yes
+58,male,10,54.48,one-year,dsl,544.8,yes,yes
+44,female,6,92.31,one-year,fiber optic,553.86,yes,yes
+55,female,13,53.77,one-year,fiber optic,699.01,yes,no
+48,female,17,114.52,month-to-month,fiber optic,1946.84,yes,yes
+38,male,0,87.27,one-year,none,0.0,no,yes
+48,female,2,59.21,month-to-month,fiber optic,118.42,yes,yes
+60,female,16,54.26,month-to-month,fiber optic,868.16,yes,yes
+44,male,8,47.18,month-to-month,none,377.44,no,yes
+60,male,26,92.52,month-to-month,dsl,2405.52,no,yes
+18,female,21,49.68,month-to-month,fiber optic,1043.28,yes,yes
+53,male,37,83.58,month-to-month,fiber optic,3092.46,yes,yes
+45,female,23,53.82,month-to-month,fiber optic,1237.86,no,yes
+42,female,11,89.58,month-to-month,none,985.38,no,yes
+45,male,22,103.34,one-year,fiber optic,2273.48,yes,yes
+25,female,6,100.02,month-to-month,none,600.12,no,yes
+42,male,7,98.48,month-to-month,fiber optic,689.36,no,yes
+48,female,31,46.9,two-year,fiber optic,1453.9,no,yes
+59,male,11,37.95,month-to-month,none,417.4500000000001,no,yes
+39,female,32,92.91,one-year,dsl,2973.12,no,yes
+36,male,34,63.15,month-to-month,dsl,2147.1,yes,yes
+39,male,38,68.91,month-to-month,fiber optic,2618.58,yes,yes
+54,female,49,32.8,one-year,dsl,1607.1999999999998,yes,no
+48,male,11,53.36,one-year,dsl,586.96,yes,yes
+39,female,7,33.03,two-year,fiber optic,231.21,yes,yes
+50,male,17,109.13,one-year,fiber optic,1855.21,yes,yes
+45,female,9,51.91,two-year,fiber optic,467.19,yes,yes
+54,male,18,80.16,month-to-month,none,1442.88,no,yes
+37,female,24,33.51,month-to-month,fiber optic,804.24,yes,yes
+41,male,23,90.02,month-to-month,none,2070.46,no,yes
+41,male,9,59.07,month-to-month,dsl,531.63,yes,yes
+30,male,3,110.81,one-year,fiber optic,332.43,yes,yes
+47,male,11,109.93,one-year,none,1209.23,no,yes
+47,female,3,59.28,month-to-month,fiber optic,177.84,yes,yes
+45,male,44,111.09,two-year,none,4887.96,no,yes
+42,female,8,119.65,two-year,fiber optic,957.2,yes,yes
+30,male,3,104.29,month-to-month,dsl,312.87,yes,yes
+40,male,0,106.04,month-to-month,fiber optic,0.0,yes,yes
+41,female,20,52.41,month-to-month,fiber optic,1048.1999999999998,yes,yes
+36,female,20,81.9,month-to-month,none,1638.0,no,yes
+43,male,8,36.05,month-to-month,dsl,288.4,yes,yes
+49,male,1,38.54,one-year,none,38.54,no,yes
+63,male,10,119.9,month-to-month,none,1199.0,no,yes
+46,female,7,59.4,month-to-month,dsl,415.8,no,yes
+47,female,22,97.34,two-year,fiber optic,2141.48,yes,no
+44,male,18,102.6,one-year,none,1846.8,no,yes
+25,female,9,107.22,two-year,none,964.98,no,yes
+44,female,4,119.79,month-to-month,fiber optic,479.16,yes,yes
+45,female,88,51.73,month-to-month,fiber optic,4552.24,yes,yes
+69,female,12,33.63,one-year,fiber optic,403.56000000000006,no,yes
+43,male,23,67.01,month-to-month,fiber optic,1541.23,yes,yes
+48,male,3,41.71,month-to-month,dsl,125.13,yes,yes
+44,male,13,32.02,one-year,none,416.2600000000001,no,yes
+33,male,0,62.44,one-year,dsl,0.0,yes,yes
+56,female,14,100.54,month-to-month,dsl,1407.5600000000002,yes,yes
+52,female,66,80.96,month-to-month,fiber optic,5343.36,yes,yes
+52,male,9,58.15,month-to-month,fiber optic,523.35,yes,yes
+35,male,0,88.89,month-to-month,fiber optic,0.0,no,yes
+59,male,0,50.88,month-to-month,fiber optic,0.0,no,yes
+30,female,9,31.29,month-to-month,fiber optic,281.61,yes,yes
+50,male,3,98.79,month-to-month,dsl,296.37,no,yes
+66,female,0,86.14,two-year,fiber optic,0.0,yes,yes
+35,male,28,98.61,one-year,none,2761.08,no,yes
+39,male,12,33.5,one-year,fiber optic,402.0,yes,no
+45,female,6,105.34,month-to-month,fiber optic,632.04,yes,yes
+39,female,46,85.76,month-to-month,fiber optic,3944.96,yes,yes
+29,male,2,80.71,month-to-month,none,161.42,no,yes
+45,female,62,86.22,month-to-month,dsl,5345.64,no,yes
+34,female,7,107.8,month-to-month,fiber optic,754.6,yes,yes
+49,female,43,82.82,one-year,none,3561.26,no,yes
+35,male,18,82.29,one-year,fiber optic,1481.22,no,yes
+60,female,35,119.16,one-year,dsl,4170.599999999999,no,yes
+37,female,82,98.11,month-to-month,fiber optic,8045.019999999999,no,yes
+41,female,6,69.81,two-year,dsl,418.86,yes,yes
+53,male,64,93.67,month-to-month,fiber optic,5994.88,no,yes
+32,male,9,65.03,month-to-month,none,585.27,no,yes
+47,male,9,50.6,month-to-month,dsl,455.4,yes,yes
+58,female,8,83.72,one-year,none,669.76,no,yes
+28,male,15,113.54,two-year,dsl,1703.1,yes,yes
+46,female,3,113.62,month-to-month,none,340.86,no,yes
+47,female,16,60.77,two-year,fiber optic,972.32,yes,no
+52,male,15,77.49,two-year,dsl,1162.35,yes,no
+32,female,28,49.05,month-to-month,dsl,1373.4,no,yes
+31,male,35,119.61,month-to-month,none,4186.35,no,yes
+50,female,11,118.3,month-to-month,dsl,1301.3,yes,yes
+47,male,7,88.46,two-year,dsl,619.2199999999999,yes,yes
+47,female,6,102.4,month-to-month,fiber optic,614.4000000000001,no,yes
+48,female,4,94.36,one-year,fiber optic,377.44,yes,yes
+38,female,1,83.38,month-to-month,fiber optic,83.38,yes,yes
+47,female,8,34.8,one-year,dsl,278.4,yes,yes
+47,female,6,70.93,month-to-month,dsl,425.58,no,yes
+37,female,67,90.73,one-year,dsl,6078.91,no,yes
+63,female,16,90.98,two-year,dsl,1455.68,yes,no
+49,female,8,63.58,two-year,fiber optic,508.64,yes,yes
+33,male,17,114.75,two-year,none,1950.75,no,yes
+51,female,2,45.06,month-to-month,dsl,90.12,yes,yes
+35,female,11,75.03,one-year,fiber optic,825.33,yes,yes
+52,female,19,92.18,month-to-month,fiber optic,1751.42,yes,yes
+56,male,13,92.74,month-to-month,none,1205.62,no,yes
+36,female,10,88.38,one-year,none,883.8,no,yes
+54,male,101,54.78,month-to-month,none,5532.78,no,yes
+49,female,42,44.06,one-year,dsl,1850.52,yes,no
+53,male,19,87.23,two-year,dsl,1657.37,no,yes
+63,female,16,83.94,month-to-month,fiber optic,1343.04,yes,yes
+42,female,19,46.14,one-year,dsl,876.66,no,yes
+37,male,4,93.46,month-to-month,fiber optic,373.84,yes,yes
+36,female,10,70.97,month-to-month,none,709.7,no,yes
+36,male,0,90.1,month-to-month,none,0.0,no,yes
+44,female,12,105.36,two-year,none,1264.32,no,yes
+48,female,15,45.28,two-year,fiber optic,679.2,no,yes
+47,female,5,31.72,two-year,fiber optic,158.6,yes,yes
+53,female,66,100.12,two-year,fiber optic,6607.92,no,yes
+45,female,48,84.87,month-to-month,dsl,4073.76,yes,yes
+59,male,25,92.97,month-to-month,none,2324.25,no,yes
+42,male,15,105.43,one-year,dsl,1581.45,no,yes
+72,female,40,102.25,month-to-month,fiber optic,4090.0,no,yes
+51,female,2,116.48,month-to-month,fiber optic,232.96,yes,yes
+36,female,31,78.23,month-to-month,fiber optic,2425.13,yes,yes
+34,female,2,73.96,one-year,none,147.92,no,yes
+49,male,31,66.17,one-year,fiber optic,2051.27,yes,no
+42,female,6,43.83,month-to-month,none,262.98,no,yes
+52,male,41,81.53,month-to-month,dsl,3342.73,yes,yes
+49,female,57,54.93,one-year,fiber optic,3131.01,yes,no
+44,male,3,112.92,one-year,none,338.76,no,yes
+36,male,12,82.49,month-to-month,fiber optic,989.88,yes,yes
+29,male,79,83.36,one-year,none,6585.44,no,yes
+40,male,13,61.94,month-to-month,dsl,805.22,no,yes
+53,female,39,34.68,month-to-month,fiber optic,1352.52,yes,yes
+47,male,17,32.86,one-year,fiber optic,558.62,yes,no
+32,male,9,68.1,one-year,none,612.9,no,yes
+46,male,6,37.61,month-to-month,dsl,225.66,yes,yes
+48,male,4,84.62,one-year,none,338.48,no,yes
+36,male,28,109.29,one-year,fiber optic,3060.1200000000003,yes,yes
+46,male,9,109.46,one-year,dsl,985.14,yes,yes
+45,female,14,89.31,one-year,fiber optic,1250.34,no,yes
+33,female,13,49.01,one-year,fiber optic,637.13,yes,no
+48,female,17,107.67,month-to-month,fiber optic,1830.39,yes,yes
+50,male,40,109.75,month-to-month,none,4390.0,no,yes
+55,male,78,47.7,month-to-month,fiber optic,3720.6,yes,yes
+55,female,10,96.37,month-to-month,fiber optic,963.7,no,yes
+31,female,35,55.79,one-year,fiber optic,1952.65,yes,no
+35,male,28,102.24,one-year,dsl,2862.72,yes,yes
+50,male,17,119.75,month-to-month,dsl,2035.75,yes,yes
+50,male,62,32.7,month-to-month,fiber optic,2027.4,yes,yes
+50,male,4,110.76,month-to-month,fiber optic,443.04,yes,yes
+83,male,2,86.04,month-to-month,dsl,172.08,no,yes
+50,female,38,117.6,one-year,fiber optic,4468.8,no,yes
+56,female,11,71.85,month-to-month,fiber optic,790.3499999999999,no,yes
+54,female,37,106.26,one-year,dsl,3931.62,no,yes
+51,female,44,35.62,two-year,fiber optic,1567.28,yes,no
+41,female,1,60.18,month-to-month,dsl,60.18,yes,yes
+52,female,42,36.03,month-to-month,none,1513.26,no,yes
+37,female,11,117.78,month-to-month,none,1295.58,no,yes
+42,male,14,103.53,one-year,none,1449.42,no,yes
+40,male,19,106.73,one-year,dsl,2027.87,yes,yes
+45,male,52,114.42,month-to-month,none,5949.84,no,yes
+68,female,0,37.66,one-year,none,0.0,no,yes
+26,female,12,64.7,two-year,none,776.4000000000001,no,yes
+51,male,23,36.39,month-to-month,dsl,836.97,no,yes
+28,female,25,48.97,month-to-month,fiber optic,1224.25,yes,yes
+40,male,23,50.64,two-year,none,1164.72,no,yes
+55,female,2,72.22,one-year,fiber optic,144.44,yes,yes
+45,male,7,54.17,two-year,fiber optic,379.19,no,yes
+34,male,8,39.09,one-year,fiber optic,312.72,yes,yes
+37,female,32,45.07,two-year,fiber optic,1442.24,yes,no
+51,male,6,43.25,month-to-month,dsl,259.5,no,yes
+37,male,4,117.58,one-year,fiber optic,470.32,yes,yes
+47,male,63,98.34,two-year,dsl,6195.42,no,yes
+45,female,0,117.1,one-year,fiber optic,0.0,yes,yes
+38,female,122,69.58,month-to-month,dsl,8488.76,no,yes
+66,male,22,55.05,month-to-month,fiber optic,1211.1,yes,yes
+51,female,35,101.85,month-to-month,dsl,3564.75,no,yes
+24,female,6,59.36,month-to-month,fiber optic,356.16,no,yes
+46,male,0,56.94,month-to-month,none,0.0,no,yes
+38,male,26,50.93,one-year,dsl,1324.18,yes,no
+53,male,35,41.67,one-year,dsl,1458.45,yes,no
+37,male,26,53.08,month-to-month,dsl,1380.08,yes,yes
+43,female,3,61.98,one-year,none,185.94,no,yes
+50,male,28,90.66,month-to-month,fiber optic,2538.48,yes,yes
+53,female,29,35.63,month-to-month,fiber optic,1033.27,yes,yes
+32,female,21,48.95,month-to-month,dsl,1027.95,yes,yes
+41,male,29,102.81,one-year,fiber optic,2981.49,no,yes
+40,female,37,43.22,month-to-month,none,1599.14,no,yes
+38,male,19,60.84,month-to-month,none,1155.96,no,yes
+62,female,1,107.82,month-to-month,fiber optic,107.82,yes,yes
+49,female,13,43.94,two-year,dsl,571.22,yes,no
+32,female,1,37.45,month-to-month,dsl,37.45,yes,yes
+54,female,10,73.61,one-year,dsl,736.1,yes,yes
+66,male,10,57.22,one-year,dsl,572.2,yes,yes
+55,female,1,80.71,one-year,dsl,80.71,yes,yes
+29,female,8,102.34,two-year,dsl,818.72,yes,yes
+40,female,2,42.34,month-to-month,fiber optic,84.68,yes,yes
+57,female,33,82.26,month-to-month,none,2714.5800000000004,no,yes
+37,female,59,75.5,two-year,fiber optic,4454.5,yes,no
+49,male,1,42.97,month-to-month,none,42.97,no,yes
+52,male,62,86.16,one-year,none,5341.92,no,yes
+35,female,14,54.63,one-year,dsl,764.82,yes,no
+44,male,7,73.91,one-year,none,517.37,no,yes
+12,female,1,37.4,two-year,dsl,37.4,no,yes
+34,female,13,71.36,two-year,fiber optic,927.68,no,yes
+42,male,31,57.58,one-year,fiber optic,1784.98,yes,no
+32,male,24,104.01,month-to-month,none,2496.24,no,yes
+61,female,1,35.13,two-year,dsl,35.13,yes,yes
+30,male,1,67.67,month-to-month,dsl,67.67,yes,yes
+40,female,10,71.26,month-to-month,none,712.6,no,yes
+46,male,6,95.25,two-year,dsl,571.5,yes,yes
+59,female,5,81.69,month-to-month,fiber optic,408.45,yes,yes
+30,male,6,90.05,month-to-month,none,540.3,no,yes
+56,female,32,99.93,month-to-month,none,3197.76,no,yes
+45,male,52,107.6,two-year,none,5595.2,no,yes
+35,female,10,58.25,one-year,none,582.5,no,yes
+49,male,47,78.42,one-year,dsl,3685.74,yes,no
+46,female,7,105.61,month-to-month,none,739.27,no,yes
+38,female,12,119.05,one-year,fiber optic,1428.6,no,yes
+45,male,5,110.06,one-year,fiber optic,550.3,yes,yes
+41,male,20,63.43,month-to-month,dsl,1268.6,no,yes
+46,male,77,47.56,month-to-month,fiber optic,3662.12,no,yes
+51,female,18,74.05,month-to-month,none,1332.9,no,yes
+60,female,8,96.75,two-year,none,774.0,no,yes
+32,female,20,74.33,one-year,fiber optic,1486.6,yes,no
+66,male,2,73.49,two-year,dsl,146.98,no,yes
+25,male,43,105.44,month-to-month,fiber optic,4533.92,no,yes
+43,female,13,62.53,one-year,none,812.89,no,yes
+50,female,11,107.38,one-year,none,1181.1799999999998,no,yes
+47,female,17,66.61,one-year,fiber optic,1132.37,yes,no
+38,male,19,59.54,two-year,dsl,1131.26,yes,no
+42,female,1,70.86,month-to-month,fiber optic,70.86,yes,yes
+40,male,22,98.62,month-to-month,fiber optic,2169.6400000000003,yes,yes
+39,male,5,41.34,one-year,none,206.7,no,yes
+53,female,25,47.68,one-year,fiber optic,1192.0,no,yes
+48,female,34,115.63,one-year,fiber optic,3931.42,yes,yes
+38,female,32,45.79,month-to-month,fiber optic,1465.28,yes,yes
+53,male,16,81.1,one-year,dsl,1297.6,yes,no
+48,male,14,82.14,month-to-month,none,1149.96,no,yes
+53,female,3,74.07,month-to-month,fiber optic,222.21,no,yes
+51,female,29,88.03,one-year,fiber optic,2552.87,yes,no
+36,male,6,50.68,one-year,fiber optic,304.08,yes,yes
+39,male,13,79.74,month-to-month,fiber optic,1036.62,yes,yes
+52,male,6,63.5,month-to-month,fiber optic,381.0,no,yes
+51,female,2,89.55,month-to-month,none,179.1,no,yes
+44,male,19,42.71,month-to-month,dsl,811.49,yes,yes
+46,male,1,81.38,one-year,fiber optic,81.38,yes,yes
+57,male,27,46.67,two-year,dsl,1260.09,yes,no
+39,male,7,55.08,month-to-month,fiber optic,385.56,no,yes
+50,male,0,49.68,one-year,dsl,0.0,yes,yes
+42,female,14,46.46,two-year,fiber optic,650.44,yes,no
+42,male,0,104.31,two-year,none,0.0,no,yes
+55,female,6,55.71,month-to-month,none,334.26,no,yes
+53,male,24,113.44,two-year,fiber optic,2722.56,no,yes
+53,female,1,117.29,month-to-month,fiber optic,117.29,yes,yes
+58,female,36,81.41,month-to-month,dsl,2930.76,no,yes
+45,female,0,42.87,month-to-month,fiber optic,0.0,no,yes
+51,female,5,63.71,month-to-month,none,318.55,no,yes
+41,male,27,101.8,month-to-month,dsl,2748.6,yes,yes
+48,male,7,63.07,month-to-month,fiber optic,441.49,yes,yes
+43,female,2,37.83,month-to-month,none,75.66,no,yes
+45,female,8,80.11,two-year,none,640.88,no,yes
+50,female,6,106.06,two-year,dsl,636.36,yes,yes
+36,female,36,101.63,month-to-month,fiber optic,3658.68,yes,yes
+65,female,7,45.76,two-year,dsl,320.32,no,yes
+34,male,31,90.55,two-year,dsl,2807.05,yes,no
+32,male,44,49.85,one-year,none,2193.4,no,yes
+56,female,11,49.64,month-to-month,none,546.04,no,yes
+52,female,48,108.67,one-year,none,5216.16,no,yes
+51,male,9,52.47,two-year,dsl,472.23,no,yes
+51,female,66,53.69,one-year,none,3543.54,no,yes
+44,male,1,30.06,month-to-month,fiber optic,30.06,no,yes
+36,female,23,108.36,one-year,fiber optic,2492.28,yes,yes
+45,male,13,101.33,one-year,fiber optic,1317.29,yes,yes
+38,male,9,86.46,one-year,dsl,778.14,yes,yes
+54,female,20,97.52,month-to-month,none,1950.4,no,yes
+43,male,24,43.68,month-to-month,fiber optic,1048.32,yes,yes
+36,female,0,71.25,two-year,dsl,0.0,yes,yes
+41,female,3,61.61,two-year,dsl,184.83,yes,yes
+49,female,24,38.44,month-to-month,dsl,922.56,yes,yes
+39,male,21,73.75,two-year,dsl,1548.75,yes,no
+36,male,67,112.87,month-to-month,fiber optic,7562.29,no,yes
+47,male,28,33.61,one-year,none,941.08,no,yes
+47,female,60,56.23,one-year,dsl,3373.8,yes,no
+39,female,24,48.68,two-year,dsl,1168.32,yes,no
+40,female,7,51.43,two-year,fiber optic,360.01,no,yes
+47,female,2,111.76,month-to-month,none,223.52,no,yes
+30,female,30,72.13,two-year,fiber optic,2163.9,yes,no
+30,female,20,71.97,month-to-month,fiber optic,1439.4,no,yes
+37,male,0,98.45,one-year,fiber optic,0.0,yes,yes
+42,female,8,43.9,one-year,dsl,351.2,yes,yes
+48,male,62,73.85,one-year,dsl,4578.7,no,yes
+59,female,13,68.7,month-to-month,none,893.1,no,yes
+53,female,11,83.72,two-year,fiber optic,920.92,yes,yes
+43,female,12,119.96,month-to-month,fiber optic,1439.52,no,yes
+44,male,4,99.25,month-to-month,none,397.0,no,yes
+34,male,9,65.81,one-year,fiber optic,592.29,no,yes
+44,male,9,104.48,month-to-month,dsl,940.32,yes,yes
+42,male,1,45.36,two-year,fiber optic,45.36,yes,yes
+48,male,29,32.74,month-to-month,dsl,949.46,yes,yes
+36,female,10,48.4,month-to-month,dsl,484.0,yes,yes
+50,female,34,60.64,two-year,fiber optic,2061.76,yes,no
+60,male,37,75.95,one-year,none,2810.15,no,yes
+43,male,4,85.36,month-to-month,none,341.44,no,yes
+49,male,21,111.95,one-year,fiber optic,2350.9500000000003,yes,yes
+51,female,12,75.89,one-year,dsl,910.68,yes,no
+40,female,42,75.11,one-year,dsl,3154.62,yes,no
+47,female,4,34.52,month-to-month,none,138.08,no,yes
+45,female,22,33.14,two-year,fiber optic,729.08,no,yes
+45,female,18,79.6,two-year,fiber optic,1432.8,no,yes
+37,female,6,69.44,one-year,none,416.64,no,yes
+45,male,2,105.53,month-to-month,none,211.06,no,yes
+49,female,21,44.46,two-year,none,933.66,no,yes
+59,male,26,32.25,one-year,dsl,838.5,yes,no
+54,female,7,70.41,one-year,none,492.87,no,yes
+66,male,20,51.37,month-to-month,none,1027.4,no,yes
+37,female,10,34.47,two-year,dsl,344.7,no,yes
+53,female,24,95.21,one-year,fiber optic,2285.04,yes,no
+46,female,4,40.04,month-to-month,fiber optic,160.16,yes,yes
+66,female,44,84.75,month-to-month,none,3729.0,no,yes
+36,male,6,55.29,two-year,dsl,331.74,no,yes
+36,male,9,45.61,month-to-month,fiber optic,410.49,yes,yes
+39,male,1,64.18,two-year,dsl,64.18,yes,yes
+23,male,2,102.13,one-year,none,204.26,no,yes
+39,female,14,65.29,one-year,dsl,914.06,yes,no
+37,male,6,97.57,month-to-month,dsl,585.42,yes,yes
+46,female,36,41.29,month-to-month,fiber optic,1486.44,yes,yes
+48,female,0,99.55,two-year,none,0.0,no,yes
+63,female,9,51.32,month-to-month,dsl,461.88,yes,yes
+54,male,8,90.97,one-year,dsl,727.76,yes,yes
+39,female,0,80.92,month-to-month,none,0.0,no,yes
+36,female,2,113.62,month-to-month,fiber optic,227.24,yes,yes
+49,female,10,64.86,month-to-month,none,648.6,no,yes
+31,female,13,35.95,one-year,dsl,467.35,yes,no
+63,female,10,31.72,two-year,fiber optic,317.2,yes,yes
+56,male,15,104.42,month-to-month,dsl,1566.3,no,yes
+40,female,18,77.23,month-to-month,dsl,1390.14,yes,yes
+27,male,0,99.77,month-to-month,fiber optic,0.0,yes,yes
+58,male,12,51.1,one-year,fiber optic,613.2,no,yes
+43,male,66,61.06,month-to-month,none,4029.96,no,yes
+57,male,14,32.71,two-year,fiber optic,457.94,no,yes
+29,male,22,116.53,one-year,fiber optic,2563.66,yes,yes
+39,male,7,90.11,one-year,fiber optic,630.77,yes,yes
+45,female,29,113.99,month-to-month,none,3305.71,no,yes
+45,female,29,53.89,two-year,dsl,1562.81,yes,no
+40,female,14,85.03,month-to-month,dsl,1190.42,yes,yes
+51,male,74,91.06,month-to-month,fiber optic,6738.4400000000005,no,yes
+34,male,2,58.58,one-year,fiber optic,117.16,yes,yes
+43,female,0,106.33,one-year,dsl,0.0,yes,yes
+46,male,29,115.24,month-to-month,none,3341.96,no,yes
+50,male,32,109.64,month-to-month,dsl,3508.48,no,yes
+52,female,2,96.52,one-year,none,193.04,no,yes
+33,male,6,54.97,month-to-month,dsl,329.82,yes,yes
+29,female,0,55.35,two-year,fiber optic,0.0,yes,yes
+57,female,6,116.7,one-year,none,700.2,no,yes
+48,male,29,30.93,month-to-month,dsl,896.97,yes,yes
+37,male,14,94.44,month-to-month,none,1322.16,no,yes
+60,female,8,93.56,month-to-month,fiber optic,748.48,no,yes
+46,male,9,86.04,one-year,none,774.36,no,yes
+56,male,0,119.11,one-year,fiber optic,0.0,no,yes
+45,female,7,58.07,month-to-month,fiber optic,406.49,yes,yes
+65,male,20,60.6,one-year,dsl,1212.0,yes,no
+62,female,73,37.1,two-year,fiber optic,2708.3,yes,no
+42,female,37,69.85,month-to-month,dsl,2584.45,yes,yes
+54,male,0,53.49,two-year,dsl,0.0,yes,yes
+51,male,45,60.9,month-to-month,dsl,2740.5,no,yes
+58,male,30,105.11,month-to-month,fiber optic,3153.3,yes,yes
+35,male,30,114.19,month-to-month,none,3425.7,no,yes
+51,male,12,46.72,month-to-month,dsl,560.64,yes,yes
+55,female,10,63.53,month-to-month,dsl,635.3,yes,yes
+27,male,7,113.58,month-to-month,fiber optic,795.06,yes,yes
+33,female,1,35.56,two-year,dsl,35.56,yes,yes
+24,female,5,38.31,two-year,dsl,191.55,yes,yes
+42,female,5,44.65,one-year,dsl,223.25,no,yes
+52,female,13,83.57,month-to-month,none,1086.41,no,yes
+60,male,27,43.54,month-to-month,none,1175.58,no,yes
+45,female,12,117.13,month-to-month,fiber optic,1405.56,yes,yes
+61,female,1,70.2,one-year,fiber optic,70.2,no,yes
+31,male,63,75.14,two-year,fiber optic,4733.82,yes,no
+27,male,57,52.2,month-to-month,fiber optic,2975.4,yes,yes
+44,female,30,72.39,month-to-month,fiber optic,2171.7,yes,yes
+48,male,94,89.57,one-year,fiber optic,8419.58,no,yes
+44,male,15,97.61,month-to-month,dsl,1464.15,yes,yes
+24,male,65,97.85,month-to-month,dsl,6360.25,yes,yes
+44,male,1,82.01,one-year,fiber optic,82.01,no,yes
+31,female,9,111.39,one-year,none,1002.51,no,yes
+51,female,5,103.57,month-to-month,fiber optic,517.8499999999999,yes,yes
+48,female,4,98.13,month-to-month,none,392.52,no,yes
+35,male,3,35.0,two-year,none,105.0,no,yes
+39,male,19,30.62,month-to-month,dsl,581.78,yes,yes
+34,female,30,49.12,month-to-month,fiber optic,1473.6,no,yes
+44,male,17,89.72,month-to-month,fiber optic,1525.24,yes,yes
+54,male,3,67.01,month-to-month,none,201.03000000000003,no,yes
+35,female,33,66.22,month-to-month,none,2185.26,no,yes
+50,male,20,109.61,two-year,fiber optic,2192.2,yes,yes
+39,female,9,110.6,month-to-month,dsl,995.4,yes,yes
+37,male,22,111.83,month-to-month,none,2460.26,no,yes
+43,male,6,58.25,one-year,dsl,349.5,yes,yes
+34,male,8,92.2,one-year,none,737.6,no,yes
+39,female,49,54.45,two-year,none,2668.05,no,yes
+33,female,6,47.15,two-year,fiber optic,282.9,yes,yes
+64,female,12,46.62,month-to-month,fiber optic,559.4399999999999,no,yes
+45,female,44,60.79,one-year,fiber optic,2674.76,yes,no
+38,male,24,68.7,month-to-month,fiber optic,1648.8000000000002,no,yes
+47,female,1,104.79,two-year,fiber optic,104.79,yes,yes
+43,male,3,40.79,month-to-month,none,122.37,no,yes
+42,female,0,96.14,two-year,none,0.0,no,yes
+51,male,19,77.83,one-year,none,1478.77,no,yes
+52,female,11,55.92,month-to-month,dsl,615.12,yes,yes
+39,male,2,74.35,one-year,none,148.7,no,yes
+39,male,63,56.99,two-year,none,3590.3700000000003,no,yes
+42,female,15,83.65,two-year,dsl,1254.75,no,yes
+21,male,5,69.05,month-to-month,dsl,345.25,yes,yes
+29,male,13,44.8,one-year,dsl,582.4,no,yes
+58,male,22,40.49,month-to-month,none,890.7800000000001,no,yes
+61,male,1,79.2,month-to-month,fiber optic,79.2,yes,yes
+42,female,6,111.22,month-to-month,none,667.3199999999999,no,yes
+50,female,32,60.96,month-to-month,dsl,1950.72,yes,yes
+48,female,12,95.97,two-year,none,1151.64,no,yes
+75,female,15,89.28,month-to-month,dsl,1339.2,yes,yes
+56,male,11,113.84,two-year,fiber optic,1252.24,yes,yes
+43,female,0,103.89,month-to-month,fiber optic,0.0,no,yes
+35,male,3,80.99,month-to-month,dsl,242.97,yes,yes
+28,male,11,89.13,month-to-month,none,980.43,no,yes
+47,female,4,110.85,month-to-month,dsl,443.4,yes,yes
+37,male,1,65.96,month-to-month,fiber optic,65.96,yes,yes
+30,female,37,59.41,month-to-month,fiber optic,2198.17,yes,yes
+38,male,79,30.97,one-year,fiber optic,2446.63,yes,no
+34,female,31,104.39,month-to-month,dsl,3236.09,yes,yes
+61,female,38,102.09,month-to-month,dsl,3879.42,no,yes
+53,female,5,39.4,month-to-month,none,197.0,no,yes
+44,female,64,81.92,two-year,dsl,5242.88,no,yes
+59,female,4,71.76,two-year,none,287.04,no,yes
+45,male,60,40.68,month-to-month,none,2440.8,no,yes
+36,female,105,118.25,month-to-month,dsl,12416.25,yes,yes
+60,male,24,49.32,month-to-month,dsl,1183.68,no,yes
+50,female,79,36.05,two-year,fiber optic,2847.95,yes,no
+34,female,16,83.54,month-to-month,none,1336.64,no,yes
+43,female,6,96.5,month-to-month,none,579.0,no,yes
+36,male,11,32.92,month-to-month,fiber optic,362.12,yes,yes
+31,male,18,89.28,month-to-month,none,1607.04,no,yes
+54,female,1,77.91,month-to-month,dsl,77.91,no,yes
+64,male,19,39.29,one-year,none,746.51,no,yes
+31,male,79,45.53,month-to-month,none,3596.87,no,yes
+50,male,4,81.12,one-year,dsl,324.48,yes,yes
+38,female,31,56.67,month-to-month,dsl,1756.77,yes,yes
+40,female,47,114.45,month-to-month,dsl,5379.150000000001,yes,yes
+39,male,57,103.69,two-year,dsl,5910.33,yes,yes
+36,male,64,118.52,month-to-month,none,7585.28,no,yes
+45,male,14,53.37,two-year,fiber optic,747.18,yes,no
+36,female,75,117.28,one-year,dsl,8796.0,no,yes
+47,female,28,68.81,month-to-month,fiber optic,1926.68,no,yes
+44,male,3,61.28,two-year,none,183.84,no,yes
+42,male,12,34.53,month-to-month,fiber optic,414.36,yes,yes
+35,male,25,34.75,two-year,fiber optic,868.75,yes,no
+39,female,5,92.28,month-to-month,dsl,461.4,no,yes
+52,female,20,71.21,two-year,none,1424.1999999999998,no,yes
+50,male,21,50.39,month-to-month,none,1058.19,no,yes
+35,male,3,85.26,one-year,dsl,255.78000000000003,no,yes
+45,male,16,52.76,one-year,dsl,844.16,yes,no
+52,female,29,81.99,two-year,dsl,2377.71,yes,no
+28,male,13,62.33,two-year,dsl,810.29,yes,no
+50,female,0,104.12,two-year,fiber optic,0.0,no,yes
+38,female,0,103.86,two-year,none,0.0,no,yes
+50,male,8,72.96,month-to-month,fiber optic,583.68,no,yes
+37,male,52,61.57,month-to-month,none,3201.64,no,yes
+26,male,5,62.63,month-to-month,fiber optic,313.15000000000003,yes,yes
+28,female,20,102.51,month-to-month,none,2050.2000000000003,no,yes
+45,female,5,59.54,month-to-month,none,297.7,no,yes
+47,female,7,48.82,one-year,dsl,341.74,yes,yes
+35,female,37,37.62,month-to-month,fiber optic,1391.9399999999998,no,yes
+51,male,26,72.0,one-year,fiber optic,1872.0,yes,no
+28,female,2,73.39,month-to-month,dsl,146.78,yes,yes
+44,female,11,105.68,month-to-month,fiber optic,1162.48,yes,yes
+32,male,0,49.91,one-year,fiber optic,0.0,yes,yes
+38,female,13,64.29,one-year,none,835.7700000000001,no,yes
+45,female,21,102.76,one-year,fiber optic,2157.96,yes,yes
+36,female,2,104.13,one-year,none,208.26,no,yes
+41,female,6,64.61,month-to-month,fiber optic,387.66,no,yes
+55,female,10,71.32,one-year,none,713.1999999999999,no,yes
+39,female,50,57.3,month-to-month,fiber optic,2865.0,yes,yes
+53,male,99,113.93,month-to-month,none,11279.070000000002,no,yes
+33,male,0,40.68,month-to-month,fiber optic,0.0,yes,yes
+50,female,28,114.04,month-to-month,fiber optic,3193.1200000000003,yes,yes
+59,male,9,91.55,month-to-month,fiber optic,823.9499999999999,no,yes
+20,male,9,77.84,two-year,fiber optic,700.5600000000001,no,yes
+37,male,28,32.94,two-year,dsl,922.32,yes,no
+50,male,50,72.8,month-to-month,dsl,3640.0,yes,yes
+42,female,60,66.7,month-to-month,dsl,4002.0,yes,yes
+48,female,17,44.51,month-to-month,none,756.67,no,yes
+38,male,8,89.08,month-to-month,dsl,712.64,yes,yes
+45,male,30,117.4,two-year,dsl,3522.0,yes,yes
+43,male,5,80.6,month-to-month,none,403.0,no,yes
+56,female,16,94.33,one-year,fiber optic,1509.28,yes,no
+47,female,8,36.16,month-to-month,fiber optic,289.28,yes,yes
+48,male,21,67.59,two-year,dsl,1419.39,yes,no
+40,female,5,40.47,month-to-month,none,202.35,no,yes
+40,female,4,85.15,one-year,none,340.6,no,yes
+40,female,50,114.46,month-to-month,none,5723.0,no,yes
+48,female,2,89.56,one-year,fiber optic,179.12,yes,yes
+40,male,14,36.91,month-to-month,none,516.74,no,yes
+47,female,4,61.92,month-to-month,dsl,247.68,yes,yes
+65,male,0,79.56,two-year,dsl,0.0,yes,yes
+53,female,0,66.29,two-year,dsl,0.0,no,yes
+41,female,3,105.03,two-year,fiber optic,315.09000000000003,yes,yes
+57,female,40,103.32,one-year,fiber optic,4132.799999999999,yes,yes
+40,female,6,85.06,two-year,fiber optic,510.36,no,yes
+24,male,60,63.61,month-to-month,dsl,3816.6,no,yes
+34,female,17,52.98,month-to-month,fiber optic,900.66,yes,yes
+26,female,11,39.53,month-to-month,none,434.83,no,yes
+41,female,17,61.94,one-year,fiber optic,1052.98,yes,no
+45,male,14,67.19,month-to-month,none,940.66,no,yes
+61,male,28,90.82,month-to-month,dsl,2542.96,yes,yes
+48,male,6,89.23,one-year,none,535.38,no,yes
+42,female,8,36.31,two-year,fiber optic,290.48,no,yes
+53,female,44,65.57,month-to-month,dsl,2885.08,yes,yes
+22,male,58,46.36,month-to-month,dsl,2688.88,yes,yes
+47,female,44,44.11,month-to-month,fiber optic,1940.84,yes,yes
+52,female,10,104.46,month-to-month,none,1044.6,no,yes
+30,female,30,33.77,month-to-month,fiber optic,1013.1,no,yes
+56,female,12,67.73,one-year,dsl,812.76,yes,no
+48,female,13,45.14,one-year,none,586.82,no,yes
+40,female,4,109.14,one-year,fiber optic,436.56,yes,yes
+51,male,17,80.13,month-to-month,fiber optic,1362.21,no,yes
+67,female,4,50.82,two-year,fiber optic,203.28,yes,yes
+46,female,8,75.22,month-to-month,dsl,601.76,no,yes
+47,female,38,95.83,month-to-month,fiber optic,3641.54,yes,yes
+40,female,4,116.23,two-year,fiber optic,464.92,yes,yes
+36,female,1,49.84,month-to-month,none,49.84,no,yes
+53,male,1,109.76,month-to-month,fiber optic,109.76,no,yes
+36,male,56,114.09,two-year,fiber optic,6389.04,no,yes
+45,male,14,112.48,month-to-month,fiber optic,1574.72,yes,yes
+40,male,10,87.19,one-year,none,871.9,no,yes
+49,female,33,86.68,month-to-month,none,2860.44,no,yes
+48,female,36,66.29,one-year,fiber optic,2386.44,yes,no
+55,male,8,97.72,month-to-month,none,781.76,no,yes
+39,male,23,77.82,month-to-month,fiber optic,1789.86,no,yes
+42,female,29,90.97,one-year,fiber optic,2638.13,no,yes
+35,male,21,68.56,month-to-month,dsl,1439.76,yes,yes
+40,female,3,95.83,month-to-month,fiber optic,287.49,yes,yes
+48,female,41,104.2,month-to-month,dsl,4272.2,no,yes
+52,female,15,43.18,month-to-month,none,647.7,no,yes
+35,male,6,104.96,month-to-month,fiber optic,629.76,yes,yes
+53,male,11,78.63,month-to-month,none,864.93,no,yes
+58,female,0,106.02,two-year,fiber optic,0.0,yes,yes
+49,female,2,68.82,month-to-month,fiber optic,137.64,yes,yes
+63,male,29,64.11,month-to-month,fiber optic,1859.19,yes,yes
+37,female,0,112.36,month-to-month,dsl,0.0,yes,yes
+32,male,10,52.61,month-to-month,fiber optic,526.1,yes,yes
+27,female,14,105.98,two-year,dsl,1483.72,yes,yes
+59,male,1,73.56,month-to-month,fiber optic,73.56,yes,yes
+51,female,72,76.27,two-year,fiber optic,5491.44,yes,no
+44,male,5,57.76,month-to-month,none,288.8,no,yes
+47,male,7,81.57,one-year,dsl,570.99,no,yes
+33,male,7,59.27,one-year,dsl,414.89,yes,yes
+69,male,5,33.53,two-year,fiber optic,167.65,yes,yes
+46,female,0,54.48,one-year,none,0.0,no,yes
+46,female,26,30.57,one-year,none,794.82,no,yes
+52,male,68,118.05,month-to-month,fiber optic,8027.4,yes,yes
+49,male,5,116.92,month-to-month,fiber optic,584.6,yes,yes
+47,female,21,65.56,two-year,dsl,1376.76,yes,no
+37,female,27,95.55,month-to-month,none,2579.85,no,yes
+49,female,37,61.12,month-to-month,fiber optic,2261.44,no,yes
+63,male,10,90.4,one-year,dsl,904.0,yes,yes
+58,male,7,102.49,month-to-month,fiber optic,717.43,yes,yes
+60,female,7,115.21,two-year,dsl,806.4699999999999,no,yes
+39,male,24,66.02,one-year,none,1584.48,no,yes
+35,female,33,100.5,one-year,dsl,3316.5,yes,yes
+43,male,4,53.93,two-year,fiber optic,215.72,yes,yes
+45,female,9,119.13,month-to-month,dsl,1072.17,yes,yes
+55,male,46,32.32,month-to-month,none,1486.72,no,yes
+28,female,32,84.32,month-to-month,none,2698.24,no,yes
+60,female,83,89.36,month-to-month,fiber optic,7416.88,yes,yes
+43,female,28,91.92,one-year,fiber optic,2573.76,yes,no
+40,male,9,40.83,two-year,none,367.47,no,yes
+34,female,17,114.47,month-to-month,dsl,1945.99,yes,yes
+28,female,21,46.31,month-to-month,fiber optic,972.51,yes,yes
+53,female,1,86.05,two-year,dsl,86.05,yes,yes
+45,female,15,50.04,month-to-month,none,750.6,no,yes
+32,female,24,57.65,month-to-month,fiber optic,1383.6,no,yes
+32,female,3,79.18,month-to-month,none,237.54,no,yes
+41,male,30,67.55,two-year,fiber optic,2026.5,yes,no
+61,female,17,44.42,one-year,dsl,755.14,no,yes
+42,female,60,45.38,one-year,dsl,2722.8,yes,no
+29,male,0,67.63,two-year,dsl,0.0,yes,yes
+42,male,6,98.16,month-to-month,fiber optic,588.96,no,yes
+42,male,18,110.82,month-to-month,dsl,1994.76,no,yes
+18,female,7,37.57,two-year,dsl,262.99,yes,yes
+44,female,25,65.38,month-to-month,none,1634.5,no,yes
+42,female,28,39.02,one-year,none,1092.5600000000002,no,yes
+51,female,2,31.49,two-year,fiber optic,62.98,no,yes
+63,male,14,89.55,one-year,fiber optic,1253.7,yes,no
+56,male,14,84.22,one-year,dsl,1179.08,yes,no
+42,male,9,44.67,two-year,fiber optic,402.03,no,yes
+33,male,54,51.04,two-year,none,2756.16,no,yes
+70,male,35,32.13,month-to-month,dsl,1124.5500000000002,no,yes
+45,male,23,105.15,month-to-month,dsl,2418.4500000000003,yes,yes
+45,female,25,117.72,month-to-month,none,2943.0,no,yes
+44,female,12,42.19,one-year,fiber optic,506.28,yes,no
+46,female,50,50.83,month-to-month,dsl,2541.5,no,yes
+43,female,23,108.16,one-year,fiber optic,2487.68,yes,yes
+39,female,26,113.38,month-to-month,fiber optic,2947.88,yes,yes
+39,male,39,67.77,one-year,fiber optic,2643.03,yes,no
+44,female,6,34.56,month-to-month,none,207.36,no,yes
+39,female,32,33.55,one-year,none,1073.6,no,yes
+37,male,4,81.66,one-year,fiber optic,326.64,yes,yes
+46,male,8,65.36,month-to-month,none,522.88,no,yes
+42,female,8,32.58,month-to-month,fiber optic,260.64,no,yes
+60,male,76,82.49,one-year,none,6269.24,no,yes
+18,female,38,31.02,month-to-month,fiber optic,1178.76,yes,yes
+55,female,24,100.86,month-to-month,none,2420.64,no,yes
+57,male,25,57.58,two-year,none,1439.5,no,yes
+24,male,16,33.62,one-year,dsl,537.92,yes,no
+41,male,58,82.95,two-year,none,4811.1,no,yes
+41,male,13,65.79,month-to-month,none,855.2700000000001,no,yes
+30,male,9,117.64,month-to-month,none,1058.76,no,yes
+37,female,3,78.98,two-year,dsl,236.94,yes,yes
+33,male,30,54.77,one-year,none,1643.1,no,yes
+62,female,26,93.85,one-year,none,2440.1,no,yes
+54,male,9,54.43,month-to-month,dsl,489.87,yes,yes
+57,female,0,111.38,month-to-month,none,0.0,no,yes
+52,male,36,63.72,month-to-month,dsl,2293.92,no,yes
+33,male,0,79.49,month-to-month,dsl,0.0,no,yes
+39,female,24,34.55,month-to-month,fiber optic,829.1999999999999,no,yes
+49,female,70,68.35,month-to-month,fiber optic,4784.5,yes,yes
+32,male,11,104.91,two-year,fiber optic,1154.01,yes,yes
+52,female,5,102.51,month-to-month,dsl,512.5500000000001,yes,yes
+42,male,24,50.19,one-year,none,1204.56,no,yes
+41,female,33,50.35,two-year,dsl,1661.55,no,yes
+52,male,15,103.56,one-year,dsl,1553.4,no,yes
+49,male,68,113.74,month-to-month,dsl,7734.32,yes,yes
+41,female,1,38.58,one-year,fiber optic,38.58,yes,yes
+56,female,14,70.51,one-year,none,987.14,no,yes
+34,male,25,60.37,one-year,fiber optic,1509.25,yes,no
+51,female,39,108.36,one-year,none,4226.04,no,yes
+50,female,3,37.52,two-year,dsl,112.56,no,yes
+41,male,32,49.0,one-year,fiber optic,1568.0,yes,no
+48,female,16,97.72,month-to-month,fiber optic,1563.52,yes,yes
+32,male,10,34.62,one-year,fiber optic,346.2,yes,yes
+54,female,2,74.33,month-to-month,dsl,148.66,no,yes
+43,female,40,69.79,two-year,fiber optic,2791.6000000000004,yes,no
+39,female,3,60.1,month-to-month,fiber optic,180.3,yes,yes
+55,male,7,65.51,month-to-month,none,458.5700000000001,no,yes
+37,male,6,77.69,two-year,fiber optic,466.14,yes,yes
+30,male,41,44.52,one-year,dsl,1825.32,yes,no
+29,male,22,81.48,month-to-month,fiber optic,1792.5600000000002,yes,yes
+51,male,31,102.49,month-to-month,dsl,3177.19,yes,yes
+32,female,5,98.41,two-year,none,492.05,no,yes
+62,male,19,43.85,month-to-month,fiber optic,833.15,no,yes
+24,male,16,43.43,two-year,dsl,694.88,yes,no
+61,female,35,54.14,month-to-month,none,1894.9,no,yes
+47,male,47,62.5,one-year,fiber optic,2937.5,yes,no
+44,female,0,66.76,two-year,dsl,0.0,yes,yes
+39,male,22,91.17,month-to-month,fiber optic,2005.74,yes,yes
+48,female,1,35.1,month-to-month,dsl,35.1,yes,yes
+44,male,15,33.12,month-to-month,none,496.8,no,yes
+56,male,6,65.27,one-year,none,391.62,no,yes
+46,female,7,92.74,one-year,none,649.18,no,yes
+46,male,8,47.41,one-year,fiber optic,379.28,yes,yes
+41,female,19,87.74,month-to-month,fiber optic,1667.06,yes,yes
+44,male,8,53.38,month-to-month,none,427.04,no,yes
+48,male,26,109.75,month-to-month,dsl,2853.5,yes,yes
+27,female,10,110.61,month-to-month,fiber optic,1106.1,yes,yes
+31,male,1,56.76,one-year,fiber optic,56.76,yes,yes
+52,female,30,50.7,two-year,dsl,1521.0,no,yes
+46,female,6,67.02,one-year,fiber optic,402.12,yes,yes
+43,female,11,51.65,month-to-month,none,568.15,no,yes
+45,female,23,90.51,two-year,none,2081.73,no,yes
+48,male,8,104.35,one-year,dsl,834.8,no,yes
+39,male,1,90.58,two-year,dsl,90.58,yes,yes
+37,male,9,104.19,one-year,dsl,937.71,yes,yes
+46,female,57,65.73,month-to-month,none,3746.61,no,yes
+35,female,20,44.07,month-to-month,dsl,881.4,no,yes
+49,male,22,96.42,one-year,none,2121.24,no,yes
+27,female,20,62.44,month-to-month,dsl,1248.8,yes,yes
+55,male,4,90.41,month-to-month,fiber optic,361.64,yes,yes
+49,female,10,54.36,one-year,fiber optic,543.6,yes,yes
+47,male,27,37.31,one-year,none,1007.37,no,yes
+54,female,2,119.33,one-year,dsl,238.66,yes,yes
+61,female,6,44.06,month-to-month,fiber optic,264.36,yes,yes
+55,male,6,118.96,month-to-month,dsl,713.76,no,yes
+26,male,11,117.96,one-year,none,1297.56,no,yes
+32,male,78,101.44,two-year,none,7912.32,no,yes
+38,male,1,89.35,one-year,dsl,89.35,yes,yes
+45,male,14,82.0,two-year,none,1148.0,no,yes
+50,female,3,107.95,one-year,fiber optic,323.85,no,yes
+37,female,70,56.05,one-year,dsl,3923.5,yes,no
+46,female,2,72.09,month-to-month,fiber optic,144.18,yes,yes
+37,male,10,85.75,one-year,dsl,857.5,yes,yes
+38,female,26,67.01,one-year,none,1742.2600000000002,no,yes
+30,female,24,68.47,one-year,none,1643.28,no,yes
+35,male,10,59.73,month-to-month,dsl,597.3,no,yes
+31,female,8,80.78,one-year,fiber optic,646.24,yes,yes
+35,female,10,106.55,month-to-month,none,1065.5,no,yes
+55,male,6,48.14,one-year,none,288.84000000000003,no,yes
+35,male,4,114.1,month-to-month,fiber optic,456.4,no,yes
+71,female,13,92.02,two-year,none,1196.26,no,yes
+49,male,6,104.09,month-to-month,fiber optic,624.54,no,yes
+46,female,6,80.06,month-to-month,fiber optic,480.36,yes,yes
+36,female,21,100.16,month-to-month,none,2103.36,no,yes
+52,female,69,31.46,one-year,fiber optic,2170.74,yes,no
+39,male,18,103.65,month-to-month,fiber optic,1865.7,no,yes
+46,male,1,33.61,month-to-month,fiber optic,33.61,yes,yes
+70,female,1,110.09,one-year,none,110.09,no,yes
+44,female,60,119.28,month-to-month,none,7156.8,no,yes
+56,male,7,56.47,two-year,fiber optic,395.29,no,yes
+37,female,1,48.93,two-year,fiber optic,48.93,yes,yes
+44,female,18,98.88,one-year,fiber optic,1779.84,yes,no
+62,male,19,52.77,month-to-month,fiber optic,1002.63,no,yes
+38,male,20,107.9,one-year,dsl,2158.0,yes,yes
+63,female,6,39.26,month-to-month,none,235.56,no,yes
+52,male,0,41.34,month-to-month,fiber optic,0.0,yes,yes
+39,male,67,118.12,month-to-month,fiber optic,7914.04,yes,yes
+51,male,5,90.65,two-year,dsl,453.25,yes,yes
+54,male,22,106.22,month-to-month,dsl,2336.84,yes,yes
+51,female,24,59.19,one-year,none,1420.56,no,yes
+29,female,18,90.88,one-year,fiber optic,1635.84,yes,no
+37,male,7,83.48,month-to-month,dsl,584.36,yes,yes
+42,female,6,84.28,month-to-month,fiber optic,505.68,yes,yes
+44,female,18,91.43,two-year,fiber optic,1645.7400000000002,yes,no
+51,female,40,81.78,one-year,dsl,3271.2,yes,no
+46,male,58,68.62,one-year,fiber optic,3979.96,yes,no
+31,male,2,54.83,month-to-month,fiber optic,109.66,yes,yes
+48,female,3,99.17,month-to-month,fiber optic,297.51,yes,yes
+51,female,57,50.36,month-to-month,fiber optic,2870.52,no,yes
+50,male,26,92.31,month-to-month,fiber optic,2400.06,yes,yes
+55,male,42,51.0,month-to-month,none,2142.0,no,yes
+53,male,4,86.28,two-year,fiber optic,345.12,yes,yes
+49,female,17,97.24,month-to-month,dsl,1653.08,yes,yes
+44,female,24,49.68,month-to-month,dsl,1192.32,yes,yes
+28,female,22,35.39,one-year,fiber optic,778.58,yes,no
+49,male,10,41.79,one-year,none,417.9,no,yes
+47,female,0,84.54,month-to-month,dsl,0.0,yes,yes
+47,female,17,106.45,one-year,none,1809.65,no,yes
+32,male,5,34.05,month-to-month,dsl,170.25,yes,yes
+34,female,11,96.07,month-to-month,fiber optic,1056.77,yes,yes
+55,female,63,60.72,month-to-month,none,3825.36,no,yes
+44,male,10,73.07,two-year,fiber optic,730.6999999999999,yes,yes
+51,female,36,113.6,month-to-month,fiber optic,4089.6,yes,yes
+45,male,4,59.88,month-to-month,dsl,239.52,yes,yes
+45,female,22,71.88,month-to-month,none,1581.36,no,yes
+54,female,75,31.23,two-year,dsl,2342.25,no,yes
+39,female,2,37.34,month-to-month,none,74.68,no,yes
+45,female,0,53.27,month-to-month,dsl,0.0,yes,yes
+40,male,11,32.51,month-to-month,none,357.61,no,yes
+40,female,1,86.82,month-to-month,fiber optic,86.82,yes,yes
+41,female,27,68.38,one-year,none,1846.26,no,yes
+47,male,49,79.33,one-year,fiber optic,3887.17,no,yes
+40,female,11,45.72,month-to-month,none,502.92,no,yes
+57,female,5,56.63,month-to-month,dsl,283.15000000000003,yes,yes
+36,male,11,89.74,month-to-month,dsl,987.14,yes,yes
+43,female,25,116.88,month-to-month,fiber optic,2922.0,yes,yes
+40,female,0,34.54,month-to-month,dsl,0.0,yes,yes
+59,male,17,110.13,one-year,dsl,1872.21,no,yes
+46,female,19,81.92,two-year,none,1556.48,no,yes
+55,male,20,80.75,two-year,none,1615.0,no,yes
+30,male,5,75.03,two-year,fiber optic,375.15,no,yes
+47,male,25,36.25,one-year,none,906.25,no,yes
+53,female,1,38.09,one-year,fiber optic,38.09,yes,yes
+45,female,4,84.08,month-to-month,dsl,336.32,yes,yes
+55,male,41,60.69,one-year,none,2488.29,no,yes
+39,male,26,112.55,month-to-month,fiber optic,2926.3,no,yes
+59,female,0,66.59,month-to-month,none,0.0,no,yes
+67,male,5,42.9,one-year,dsl,214.5,yes,yes
+41,female,4,94.32,month-to-month,fiber optic,377.28,yes,yes
+40,female,6,56.4,month-to-month,dsl,338.4,no,yes
+59,female,5,77.29,two-year,dsl,386.4500000000001,yes,yes
+60,female,1,92.8,month-to-month,dsl,92.8,yes,yes
+39,male,12,111.02,month-to-month,none,1332.24,no,yes
+40,female,26,101.3,two-year,none,2633.8,no,yes
+42,female,18,90.87,one-year,none,1635.66,no,yes
+31,female,22,91.17,one-year,fiber optic,2005.74,yes,no
+35,male,1,115.13,month-to-month,fiber optic,115.13,yes,yes
+34,female,60,56.62,month-to-month,dsl,3397.2,yes,yes
+37,male,36,30.1,two-year,dsl,1083.6,no,yes
+44,male,32,54.48,one-year,fiber optic,1743.36,yes,no
+47,male,34,49.61,one-year,none,1686.74,no,yes
+60,female,53,89.57,month-to-month,fiber optic,4747.21,yes,yes
+35,female,15,87.03,month-to-month,dsl,1305.45,yes,yes
+54,female,4,83.41,two-year,dsl,333.64,yes,yes
+42,female,19,31.46,month-to-month,dsl,597.74,no,yes
+44,male,27,95.59,one-year,fiber optic,2580.9300000000003,no,yes
+51,female,26,59.12,month-to-month,none,1537.12,no,yes
+33,male,14,89.86,one-year,fiber optic,1258.04,yes,no
+48,female,1,80.09,two-year,none,80.09,no,yes
+46,female,9,60.85,one-year,fiber optic,547.65,no,yes
+49,female,50,42.11,month-to-month,fiber optic,2105.5,yes,yes
+47,female,17,38.5,one-year,dsl,654.5,no,yes
+69,male,15,104.84,one-year,none,1572.6,no,yes
+38,male,6,112.66,month-to-month,none,675.96,no,yes
+39,female,9,88.48,two-year,dsl,796.32,no,yes
+38,male,45,39.31,one-year,fiber optic,1768.95,no,yes
+39,male,21,66.18,two-year,fiber optic,1389.7800000000002,yes,no
+38,female,30,95.6,one-year,fiber optic,2868.0,yes,no
+56,female,12,100.18,month-to-month,none,1202.16,no,yes
+59,male,19,40.64,month-to-month,fiber optic,772.16,no,yes
+39,male,5,30.0,month-to-month,fiber optic,150.0,yes,yes
+36,female,24,94.09,two-year,dsl,2258.16,no,yes
+49,female,11,62.09,one-year,dsl,682.99,no,yes
+39,male,11,52.9,one-year,dsl,581.9,yes,yes
+51,male,20,31.16,month-to-month,dsl,623.2,no,yes
+47,male,55,78.63,month-to-month,none,4324.65,no,yes
+29,male,1,106.6,one-year,none,106.6,no,yes
+60,male,34,116.19,month-to-month,dsl,3950.46,yes,yes
+62,female,6,80.92,month-to-month,none,485.52,no,yes
+38,female,11,76.3,one-year,dsl,839.3,no,yes
+41,female,0,37.66,month-to-month,fiber optic,0.0,yes,yes
+47,male,7,79.4,month-to-month,dsl,555.8000000000001,yes,yes
+48,female,13,64.2,month-to-month,fiber optic,834.6,yes,yes
+51,male,1,84.64,month-to-month,dsl,84.64,no,yes
+65,female,13,64.99,two-year,fiber optic,844.8699999999999,yes,no
+43,female,52,51.63,month-to-month,fiber optic,2684.76,no,yes
+37,male,2,38.55,month-to-month,none,77.1,no,yes
+31,female,28,58.34,month-to-month,dsl,1633.52,yes,yes
+37,male,10,38.7,one-year,dsl,387.0,yes,yes
+44,female,21,45.92,month-to-month,dsl,964.32,yes,yes
+62,male,6,118.86,one-year,fiber optic,713.16,no,yes
+39,male,3,69.97,month-to-month,dsl,209.91,yes,yes
+47,female,3,77.87,month-to-month,none,233.61,no,yes
+44,male,1,108.63,month-to-month,fiber optic,108.63,yes,yes
+56,female,4,119.6,two-year,fiber optic,478.4,yes,yes
+70,male,21,82.44,two-year,fiber optic,1731.24,no,yes
+39,female,42,103.12,month-to-month,dsl,4331.04,no,yes
+40,female,33,59.42,one-year,dsl,1960.86,yes,no
+55,female,23,57.52,two-year,fiber optic,1322.96,yes,no
+51,male,2,66.24,month-to-month,fiber optic,132.48,yes,yes
+63,male,6,90.53,two-year,dsl,543.1800000000001,yes,yes
+50,male,7,91.4,month-to-month,dsl,639.8000000000001,no,yes
+41,male,5,58.37,two-year,none,291.85,no,yes
+50,female,14,41.99,one-year,dsl,587.86,yes,no
+56,female,15,86.92,two-year,none,1303.8,no,yes
+53,female,8,41.55,one-year,none,332.4,no,yes
+50,female,8,82.06,month-to-month,dsl,656.48,yes,yes
+55,female,35,92.41,two-year,dsl,3234.35,yes,no
+56,female,31,93.06,month-to-month,dsl,2884.86,yes,yes
+58,male,7,97.81,month-to-month,fiber optic,684.6700000000001,yes,yes
+51,female,49,108.56,one-year,fiber optic,5319.4400000000005,yes,yes
+43,female,61,75.0,one-year,none,4575.0,no,yes
+46,female,7,95.72,two-year,none,670.04,no,yes
+57,male,8,85.73,month-to-month,fiber optic,685.84,no,yes
+36,male,14,46.8,one-year,dsl,655.1999999999999,yes,no
+48,male,56,32.31,one-year,dsl,1809.36,yes,no
+41,female,41,55.61,month-to-month,none,2280.01,no,yes
+45,female,2,69.87,month-to-month,dsl,139.74,no,yes
+57,male,9,85.54,month-to-month,dsl,769.86,no,yes
+46,female,16,106.5,month-to-month,none,1704.0,no,yes
+45,male,13,47.66,two-year,fiber optic,619.5799999999999,yes,no
+31,male,4,41.3,one-year,none,165.2,no,yes
+52,male,39,116.71,one-year,fiber optic,4551.69,yes,yes
+51,female,22,39.72,two-year,dsl,873.8399999999999,no,yes
+66,female,36,73.06,month-to-month,none,2630.16,no,yes
+41,male,39,82.7,two-year,dsl,3225.3,yes,no
+47,female,27,78.72,month-to-month,fiber optic,2125.44,yes,yes
+47,male,11,37.74,two-year,fiber optic,415.14,yes,yes
+60,female,18,35.13,month-to-month,dsl,632.34,no,yes
+44,female,3,39.49,two-year,fiber optic,118.47,yes,yes
+47,female,22,82.7,month-to-month,dsl,1819.4,yes,yes
+51,male,3,78.99,month-to-month,fiber optic,236.97,yes,yes
+46,female,23,51.04,one-year,fiber optic,1173.92,yes,no
+40,female,5,87.4,month-to-month,none,437.0,no,yes
+46,male,2,103.81,one-year,none,207.62,no,yes
+55,female,3,33.74,month-to-month,dsl,101.22,yes,yes
+34,male,0,74.83,one-year,fiber optic,0.0,no,yes
+46,female,25,92.04,month-to-month,fiber optic,2301.0,no,yes
+37,male,26,52.71,month-to-month,dsl,1370.46,no,yes
+56,female,14,57.7,month-to-month,none,807.8000000000001,no,yes
+29,female,3,85.23,month-to-month,none,255.69,no,yes
+39,male,1,110.81,month-to-month,dsl,110.81,yes,yes
+48,male,0,102.89,month-to-month,fiber optic,0.0,yes,yes
+60,male,3,82.48,month-to-month,dsl,247.44,no,yes
+44,male,44,95.72,month-to-month,fiber optic,4211.68,no,yes
+39,male,5,62.83,one-year,dsl,314.15,no,yes
+63,female,8,87.69,two-year,none,701.52,no,yes
+30,male,2,71.96,month-to-month,none,143.92,no,yes
+23,male,5,47.09,one-year,fiber optic,235.45,yes,yes
+49,female,14,93.16,one-year,fiber optic,1304.24,yes,no
+39,male,18,80.08,month-to-month,none,1441.44,no,yes
+34,female,5,62.28,one-year,fiber optic,311.4,yes,yes
+52,female,1,112.02,month-to-month,dsl,112.02,yes,yes
+47,female,9,31.88,one-year,fiber optic,286.92,yes,yes
+39,female,5,58.42,month-to-month,none,292.1,no,yes
+32,female,4,35.12,one-year,fiber optic,140.48,yes,yes
+53,male,64,98.99,one-year,fiber optic,6335.36,no,yes
+51,male,19,93.19,month-to-month,none,1770.61,no,yes
+44,male,16,59.82,month-to-month,none,957.12,no,yes
+63,female,10,90.81,two-year,none,908.1,no,yes
+34,male,11,65.63,month-to-month,dsl,721.93,no,yes
+29,female,15,98.06,one-year,fiber optic,1470.9,yes,no
+38,female,23,70.88,two-year,none,1630.2399999999998,no,yes
+44,female,24,67.11,one-year,none,1610.64,no,yes
+47,female,3,114.13,one-year,fiber optic,342.39,yes,yes
+42,male,13,52.58,one-year,dsl,683.54,yes,no
+48,female,10,40.84,two-year,none,408.4,no,yes
+32,female,40,82.61,month-to-month,none,3304.4,no,yes
+59,male,19,117.24,month-to-month,dsl,2227.56,no,yes
+44,male,15,64.01,month-to-month,fiber optic,960.15,no,yes
+56,female,2,35.58,two-year,dsl,71.16,no,yes
+48,female,18,60.54,one-year,fiber optic,1089.72,yes,no
+49,female,2,75.53,month-to-month,dsl,151.06,no,yes
+50,female,8,44.57,two-year,fiber optic,356.56,yes,yes
+49,female,3,89.23,month-to-month,fiber optic,267.69,yes,yes
+51,female,23,119.8,month-to-month,fiber optic,2755.4,yes,yes
+58,male,4,70.66,one-year,fiber optic,282.64,yes,yes
+46,male,9,61.93,month-to-month,none,557.37,no,yes
+52,male,45,66.06,two-year,dsl,2972.7000000000003,yes,no
+44,female,4,40.36,month-to-month,dsl,161.44,yes,yes
+59,female,14,109.49,two-year,none,1532.86,no,yes
+38,female,10,67.33,one-year,dsl,673.3,yes,yes
+63,male,0,64.85,month-to-month,none,0.0,no,yes
+44,female,31,89.37,two-year,none,2770.4700000000003,no,yes
+30,female,1,69.78,one-year,fiber optic,69.78,yes,yes
+46,female,12,88.34,month-to-month,none,1060.08,no,yes
+38,female,16,35.53,month-to-month,dsl,568.48,yes,yes
+53,male,19,103.24,two-year,fiber optic,1961.56,yes,yes
+38,female,23,114.65,month-to-month,fiber optic,2636.9500000000003,yes,yes
+40,male,5,88.39,month-to-month,fiber optic,441.95,yes,yes
+26,male,0,115.91,month-to-month,none,0.0,no,yes
+40,female,25,43.63,month-to-month,dsl,1090.75,yes,yes
+20,female,15,72.97,one-year,fiber optic,1094.55,yes,no
+29,female,36,84.16,month-to-month,fiber optic,3029.76,yes,yes
+52,female,34,82.36,month-to-month,fiber optic,2800.24,no,yes
+52,female,37,66.13,month-to-month,dsl,2446.81,yes,yes
+49,female,13,60.43,month-to-month,fiber optic,785.59,yes,yes
+35,female,8,41.41,two-year,none,331.28,no,yes
+44,male,31,65.26,month-to-month,dsl,2023.06,yes,yes
+44,male,12,44.64,two-year,none,535.6800000000001,no,yes
+33,male,4,96.09,month-to-month,fiber optic,384.36,yes,yes
+60,male,38,48.79,month-to-month,none,1854.02,no,yes
+53,male,42,35.27,two-year,none,1481.34,no,yes
+42,male,12,79.71,month-to-month,dsl,956.52,yes,yes
+45,male,1,83.57,one-year,fiber optic,83.57,yes,yes
+47,female,9,108.47,two-year,none,976.23,no,yes
+24,male,32,81.93,month-to-month,fiber optic,2621.76,yes,yes
+42,female,46,61.09,month-to-month,none,2810.1400000000003,no,yes
+38,male,4,102.27,one-year,fiber optic,409.08,no,yes
+34,female,1,78.63,month-to-month,dsl,78.63,no,yes
+42,male,41,37.14,month-to-month,fiber optic,1522.74,yes,yes
+62,male,9,80.93,month-to-month,none,728.3700000000001,no,yes
+51,female,15,111.72,month-to-month,fiber optic,1675.8,yes,yes
+39,male,68,65.67,one-year,none,4465.56,no,yes
+50,male,1,56.67,month-to-month,none,56.67,no,yes
